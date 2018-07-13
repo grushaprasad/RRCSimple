@@ -692,7 +692,9 @@ var items = [
 [["filler42",[80,1]], "DashedSentence", {s: "The seated boy rose up to answer the teacher's question on the chalkboard."}, "Question", {q: "Did the boy get out of his seat?", hasCorrect: 0}],
 [["RRC32",[80,1]], "DashedSentence", {s: "The nervous wrestler hurried through the stands hadn't seen his opponent."}, "Question", {q: "Did the wrestler know his opponent?", hasCorrect: 1}],
 [["RRC32",[80,1]], "DashedSentence", {s: "The nervous wrestler hurried through the stands hadn't seen his opponent."}, "Question", {q: "Did the wrestler know his opponent?", hasCorrect: 1}],
-[["RRC3",[80,1]], "DashedSentence", {s: "The frightened kid moved through the crowd got separated from Jane."}, "Question", {q: "Was the kid scar
+[["RRC3",[80,1]], "DashedSentence", {s: "The frightened kid moved through the crowd got separated from Jane."}, "Question", {q: "Was the kid scared?", hasCorrect: 0}],
+[["RRC3",[80,1]], "DashedSentence", {s: "The frightened kid moved through the crowd got separated from Jane."}, "Question", {q: "Was the kid scared?", hasCorrect: 0}],
+
 
 ["participant_observations", "Form", {html: {include: "participant_observations.html"}}],
 ["end_of_experiment", "Message", {html: {include: "end_of_exp.html"}, transfer: 600000}]
